@@ -1,6 +1,6 @@
 ## Funções
 
-### O que é uma função e pra que servem?
+#### O que é uma função e pra que servem?
 
     Uma parte de extrema importância na programação são as funções, a função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos, isso evita termos que ficar repetindo linha de código varias vezes para tarefas que são usadas repetidas vezes
 
@@ -86,7 +86,7 @@ Sim, podemos chamar a função dentro do print, isso foi so um exemplo para most
 Caso não usasse a função ficaria assim:
 
 area = (10 _ 4)/2
-print (“A soma dos parâmetros é: “, área)   
+print (“A soma dos parâmetros é: “, área)  
 area = (27 _ 7)/2
 print (“A soma dos parâmetros é: “, área)
 area = (58 \* 10)/2
