@@ -1,19 +1,18 @@
 ## Funções
 
-#### O que é uma função e pra que servem?
+### O que é uma função e pra que servem?
 
-    Uma parte de extrema importância na programação são as funções, a função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos, isso evita termos que ficar repetindo linha de código varias vezes para tarefas que são usadas repetidas vezes
+Uma parte de extrema importância na programação são as funções, a função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos, isso evita termos que ficar repetindo linha de código varias vezes para tarefas que são usadas repetidas vezes
 
-Como declarar uma função em python?
+### Como declarar uma função em python?
 
 O escopo da declaração de uma função é:
 
-    #ff0000 def nome_função (argumentos):
+    def nome_função (argumentos):
+    	código
+    	return valor
 
-código
-return valor
-
-#000000 Não necessariamente ela precisa ter argumentos ou retornar algum valor. E como já dito antes, a indentação é de extrema importância no python!
+Não necessariamente ela precisa ter argumentos ou retornar algum valor. E como já dito antes, a indentação é de extrema importância no python!
 
 Uma função simples para o melhor entendimento de vocês:
 
